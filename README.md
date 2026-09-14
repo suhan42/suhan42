@@ -1,11 +1,12 @@
 <!-- ═══════ 顶部横幅 ═══════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving
-&color=0:0d47a1,100:2196f3&height=200&section=header
-&text=Suhan
-&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white
-&desc=Code+%C2%B7+AI Agent+%C2%B7+RAG
-&descAlignY=62&descSize=18" />
+  &color=0:0d47a1,100:2196f3&height=200&section=header
+  &text=Suhan
+  &fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white
+  &desc=Code+%C2%B7+AI Agent+%C2%B7+RAG
+  &descAlignY=62&descSize=18" />
+</div>
 
 <!-- ═══════ 技能墙 ═══════ -->
 <div align="center">
@@ -22,9 +23,9 @@
 
 ## 🔗connent
 
-- <a href="https://blog.csdn.net/weixin_51350847"><img src="https://g.csdnimg.cn/static/logo/favicon32.ico" width="22" style="vertical-align: middle; position: relative; top: -2px;" /><b>CSDN博客 - Suhan42</b></a>
+<a href="https://blog.csdn.net/weixin_51350847"><img src="https://g.csdnimg.cn/static/logo/favicon32.ico" width="20"/><b>CSDN博客 - Suhan42</b></a>
 
-- <a href="https://juejin.cn/user/3102177763534428"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png" width="22" style="vertical-align: middle; position: relative; top: -2px;" /><b>稀土掘金 - suhan 的个人主页</b></a>
+<a href="https://juejin.cn/user/3102177763534428"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png" width="20"/><b>稀土掘金 - suhan 的个人主页</b></a>
 
 
 
