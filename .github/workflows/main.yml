@@ -1,11 +1,13 @@
 name: generate github-contribution-grid-snake
 
 on:
-  # run automatically every 2 hours
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 8 */7 * *"
 
   workflow_dispatch: # 允许手动触发
+  push: # push 到 main 分支时自动触发
+    branches:
+      - main
 
 jobs:
   generate:
