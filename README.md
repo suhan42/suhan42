@@ -1,11 +1,7 @@
-<!-- ═══════ 顶部横幅 ═══════ -->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:2196f3&height=200&section=header&text=Suhan&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Code+%C2%B7+AI Agent+%C2%B7+RAG&descAlignY=62&descSize=18" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving
-&color=0:0d47a1,100:2196f3&height=200&section=header
-&text=Suhan
-&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white
-&desc=Code+%C2%B7+AI Agent+%C2%B7+RAG
-&descAlignY=62&descSize=18"/>
 
 
 <!-- ═══════ 技能墙 ═══════ -->
@@ -30,7 +26,6 @@
 
 
 <!-- 底部波浪 -->
-
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196f3,100:0d47a1&height=120&section=footer" width="100%" />
 </div>
