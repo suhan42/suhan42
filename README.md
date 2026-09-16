@@ -3,10 +3,14 @@
 </div>
 
 
-<!-- ═══════ 技能墙 ═══════ -->
+<!-- 技能墙 -->
 <div align="center">
     <h3>🛠️ Skills & Tools</h3>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,react,vue,git,github,docker,linux,mysql,vscode,&perline=9" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,vue,nodejs,npm,pnpm,maven,git,gitlab,github,docker,linux,debian,kali,bash,md,mysql,postgres,redis,kafka,rabbitmq,ipfs,opencv,pytorch&perline=9" alt="skills" />
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,sublime,idea,obsidian,notion,replit,devto,mastodon&perline=9" alt="skills" />
 </div>
 
 <!-- 贪吃蛇 -->
@@ -16,11 +20,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suhan42/suhan42/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🔗connent
+<div align="center">
+    <h3>🔗 connent</h3>
+    <a href="https://blog.csdn.net/weixin_51350847"><img src="https://g.csdnimg.cn/static/logo/favicon32.ico" width="18"/><b>CSDN博客 - Suhan42</b></a>
+    </br>
+    <a href="https://juejin.cn/user/3102177763534428"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png" width="18"/><b>稀土掘金 - suhan 的个人主页</b></a>
+</div>
 
-<a href="https://blog.csdn.net/weixin_51350847"><img src="https://g.csdnimg.cn/static/logo/favicon32.ico" width="20"/><b>CSDN博客 - Suhan42</b></a>
-
-<a href="https://juejin.cn/user/3102177763534428"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png" width="20"/><b>稀土掘金 - suhan 的个人主页</b></a>
 
 
 
